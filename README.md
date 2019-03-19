@@ -47,5 +47,5 @@ Using US Census Demographic Data from a Kaggle dataset (the census data for all 
 ➔  Insight 3  [Poverty Data by State](https://public.tableau.com/profile/winnie.choi#!/vizhome/PovertyDatabyState/Dashboard1?publish=yes)
 
 
-[Udacity Business Analytics Nanodegree] (
+[Udacity Business Analytics Nanodegree](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Business%20Analytics%20Nanodegree%20Certificate.pdf)
 
