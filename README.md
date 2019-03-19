@@ -3,6 +3,8 @@
 ### Winnie Choi
 This repository contains projects for Udacity's [Business Analytics Nanodegree](https://www.udacity.com/course/business-analytics-nanodegree--nd098) 
 
+This Nanodegree program is to gain foundational data skills applicable to any industry by collecting and analyzing data, modeling business scenarios, and communicating your findings with SQL, Excel, and Tableau.                                         
+
 ### [Introduction to Data Analysis]
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
 
