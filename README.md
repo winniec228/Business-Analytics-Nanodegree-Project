@@ -18,7 +18,14 @@ Learn to use Structured Query Language (SQL) to extract and analyze data stored 
 #### * Project 2: [Query a Digital Music Store Database](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/SQL_Digital%20Music%20Store%20Database.pdf)
   [SQL queries for the project](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Project_queries.txt)
   
-In this project, I queried a digital music store database to answer more complex business questions. I combined data tables with SQL Joins. I aggregated data in SQL including COUNT, SUM, MIN, and  MAX also writing CASE and DATE functions and utilizing Subquries. 
+In this project, I queried a digital music store database to answer more complex business questions by performing 
+     
+     • Basic SQL commands including SELECT,FROM, WHERE, and corresponding logical operators(LIKE, IN, NOT, AND & BETWEEN and OR)
+     • Combining data tables using SQL joins
+     • Aggregating data in SQL including COUNT, SUM, MIN, MAX and AVERAGE
+     • Writing WHERE, GROUP BY, DISTINCT and HAVING 
+     • Utilizing CASE and DATE functions as well as CONCAT, CAST and COALESCE 
+     • Using Subquries 
 
 ### [Data Visualization]
 Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
