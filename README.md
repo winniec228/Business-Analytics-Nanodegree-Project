@@ -25,9 +25,9 @@ In this project, I queried a digital music store database to answer more complex
      • Combining data tables using SQL joins
      • Aggregating data in SQL including COUNT, SUM, MIN, MAX and AVERAGE
      • Writing WHERE, GROUP BY, DISTINCT and HAVING 
-     • Using Subquries 
+     • Using Subqueries 
 
-This course also covers SQL funtions with DATE, CASE, POSION & STRPOS, CONCAT, CAST, COALESCE and window functions with PARTITION. 
+This course also covers SQL funtions with DATE, CASE, POSITION & STRPOS, CONCAT, CAST, COALESCE and window functions with PARTITION. 
 
 ### [Data Visualization]
 Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
