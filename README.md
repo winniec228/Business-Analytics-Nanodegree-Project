@@ -9,7 +9,7 @@ This Nanodegree program is to gain foundational data skills applicable to any in
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
 
 #### * Intro Project: [Interpret a Data Visualization](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Interpret%20a%20Data%20Visualization/Project_Madrid%20in%20Detail.pdf) 
-In this project, I explored an interactive data dashboard to uncover insights. Then I wrote a short report explaining each insight, and how I found the information to reach my conclusion from the dashboard.
+In this project, I explored an interactive data dashboard about Madrid to uncover insights. Then I wrote a short report explaining each insight, and how I found the information to reach my conclusion from the dashboard.
 
 #### * Project 1: [Analyze Survey Data](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Interpret%20a%20Data%20Visualization/Analyze%20Udacity%20Survey%20Data.pdf)
 In this project, I explored marketing suvery data from Udacity. Started with manipulating data with sort and filter, I summarized data with aggregation and conditional funtions. Then I built data visualizations for quantitative and categorical data with scatterplot, pie chart and histograms. 
