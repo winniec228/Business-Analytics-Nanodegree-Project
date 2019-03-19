@@ -20,12 +20,13 @@ Learn to use Structured Query Language (SQL) to extract and analyze data stored 
   
 In this project, I queried a digital music store database to answer more complex business questions by performing 
      
-     • Basic SQL commands including SELECT,FROM, WHERE, and corresponding logical operators(LIKE, IN, NOT, AND & BETWEEN and OR)
+     • Basic SQL commands including SELECT,FROM, WHERE, and logical operators(LIKE, IN, NOT, AND & BETWEEN and OR)
      • Combining data tables using SQL joins
      • Aggregating data in SQL including COUNT, SUM, MIN, MAX and AVERAGE
      • Writing WHERE, GROUP BY, DISTINCT and HAVING 
-     • Utilizing CASE and DATE functions as well as CONCAT, CAST and COALESCE 
      • Using Subquries 
+
+This course also covers SQL funtions with DATE, CASE, POSION & STRPOS, CONCAT, CAST, COALESCE and window functions with PARTITION. 
 
 ### [Data Visualization]
 Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
