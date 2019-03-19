@@ -20,3 +20,10 @@ Learn to use Structured Query Language (SQL) to extract and analyze data stored 
 Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
 
 #### * Project : [Build Data Dashboards](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Data%20Visualization_US%20Census%20Demographic%20data.pdf)
+-- Insight 1  [Unemployment Rate by State](https://public.tableau.com/profile/winnie.choi#!/vizhome/2015USUnemploymentbyState/Dashboard1)
+
+-- Insight 2  [California Employment, Industry Sector by County](https://public.tableau.com/profile/winnie.choi#!/vizhome/CaliforniaDatabyCounty/Dashboard1?publish=yes)
+
+-- Insight 3  [Poverty Data by State](https://public.tableau.com/profile/winnie.choi#!/vizhome/PovertyDatabyState/Dashboard1?publish=yes)
+
+
