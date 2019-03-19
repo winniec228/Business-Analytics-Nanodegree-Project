@@ -14,7 +14,7 @@ Learn how to use statistics and visuals to find and communicate insights. Develo
 Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases.
 
 #### * Project 2 : [Query a Digital Music Store Database](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/SQL_Digital%20Music%20Store%20Database.pdf)
-(https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Project_queries.txt)
+  [SQL queries for the project](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Project_queries.txt)
 
 ### [Data Visualization]
 Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
