@@ -8,17 +8,16 @@ This Nanodegree program is to gain foundational data skills applicable to any in
 ### [Introduction to Data Analysis]
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
 
-#### * Intro Project: [Interpret a Data Visualization](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Project_Madrid%20in%20Detail.pdf) 
+#### * Intro Project: [Interpret a Data Visualization](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Interpret%20a%20Data%20Visualization/Project_Madrid%20in%20Detail.pdf) 
 In this project, I explored an interactive data dashboard to uncover insights. Then I wrote a short report explaining each insight, and how I found the information to reach my conclusion from the dashboard.
 
-#### * Project 1: [Analyze Survey Data](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Analyze%20Udacity%20Survey%20Data.pdf)
+#### * Project 1: [Analyze Survey Data](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Interpret%20a%20Data%20Visualization/Analyze%20Udacity%20Survey%20Data.pdf)
 In this project, I explored marketing suvery data from Udacity. Started with manipulating data with sort and filter, I summarized data with aggregation and conditional funtions. Then I built data visualizations for quantitative and categorical data with scatterplot, pie chart and histograms. 
 
 ### [SQL for Data Analysis]
 Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases.
 
-#### * Project 2: [Query a Digital Music Store Database](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/SQL_Digital%20Music%20Store%20Database.pdf)
-  [SQL queries for the project](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Project_queries.txt)
+#### * Project 2: [Query a Digital Music Store Database](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/tree/master/SQL%20for%20Data%20Analysis)
   
 In this project, I queried a digital music store database to answer more complex business questions by performing 
      
@@ -33,7 +32,7 @@ This course also covers SQL funtions with DATE, CASE, POSION & STRPOS, CONCAT, C
 ### [Data Visualization]
 Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
 
-#### * Project 3: [Build Data Dashboards](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/blob/master/Data%20Visualization_US%20Census%20Demographic%20data.pdf)
+#### * Project 3: [Build Data Dashboards](https://github.com/winniec228/Business-Analytics-Nanodegree-Project/tree/master/Data%20Visualization%20with%20Tableau)
 Using US Census Demographic Data from a Kaggle dataset (the census data for all counties in 2015), I built data visualizations in Tableau by 
 
     • Using data hierarchies, filters, groups, sets, and calculated fields
