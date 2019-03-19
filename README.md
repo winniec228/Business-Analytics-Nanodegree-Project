@@ -1,4 +1,15 @@
-# Business-Analytics-Nanodegree-Project
-This is to store four completed projects on Business Analytics Nanodegree Program. 
+# Business Analytics Nanodegree Project
+This repository contains projects for Udacity's Business Analytics Nanodegree. 
 
-Nanodegree Program Info :  This program is an excellent program for non-technical people who want to make more  data driven decisions. You’ll learn data analysis skills and tools that will help you  throughout your career, whether you’re in engineering, sales, marketing, operations, etc.  You’ll learn to use Excel, SQL, and Tableau to manipulate, analyze, and visualize data with  the end goal of making better, data-informed decisions. 
+Introduction to Data
+Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
+
+ANALYZE NYSE DATA
+SQL for Data Analysis
+Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases.
+
+QUERY A DIGITAL MUSIC STORE DATABASE
+Data Visualization
+Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
+
+BUILD DATA DASHBOARDS
